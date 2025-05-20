@@ -1,5 +1,6 @@
 # n8n-free-templates
 # 🚀 200 Ready-to-Import n8n Workflows  
+
 _AI • Vector DB • LLM • DevOps • Finance • IoT • and more_
 
 Free n8n templates to download
@@ -84,10 +85,10 @@ git clone <https://github.com/wassupjay/n8n-free-templates.git>
 ---
 
 ## 🤝 Contributing
-
+You can contribute by adding more templates!
 PRs & issues welcome!  
 Request new templates, improve prompts, or add integrations.
-
+Collabs welcome!
 ---
 
 _Made with ❤️ by Jayanth — “Automate everything, then automate the automation.”_
