@@ -5,6 +5,7 @@ _AI • Vector DB • LLM • DevOps • Finance • IoT • and more_
 
 Free n8n templates to download
 
+!!! Some of the templates are incomplete, you can be a contributor by completing it.
 <p align="center">
   <img src="https://img.shields.io/badge/Templates-200-6A5ACD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Categories-20%2B-008080?style=for-the-badge" />
@@ -86,9 +87,10 @@ git clone <https://github.com/wassupjay/n8n-free-templates.git>
 
 ## 🤝 Contributing
 You can contribute by adding more templates!
+!!! Some of the templates are incomplete, you can be a contributor by completing it!!!
 PRs & issues welcome!  
 Request new templates, improve prompts, or add integrations.
 Collabs welcome!
 ---
 
-_Made with ❤️ by Jayanth — “Automate everything, then automate the automation.”_
+_Made with ❤️ by Jay — “Automate everything, then automate the automation.”_
