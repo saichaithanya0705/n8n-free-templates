@@ -1,0 +1,23 @@
+services:
+  - type: web
+    name: n8n
+    env: docker
+    plan: free
+    repo: https://github.com/saichaithanya0705/n8n-free-templates
+    dockerfilePath: n8n-deploy/Dockerfile
+    branch: main
+    envVars:
+      - key: GENERIC_TIMEZONE
+        value: Asia/Kolkata
+      - key: N8N_BASIC_AUTH_USER
+        value: admin
+      - key: N8N_BASIC_AUTH_PASSWORD
+        value: superSecurePassword123
+      - key: N8N_HOST
+        value: your-n8n-app.onrender.com
+      - key: N8N_PORT
+        value: 5678
+      - key: WEBHOOK_URL
+        value: https://your-n8n-app.onrender.com/
+      - key: NODE_ENV
+        value: production
